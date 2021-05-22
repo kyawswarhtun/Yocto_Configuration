@@ -8,10 +8,10 @@ be appropriate.
  
  BB_NUMBER_THREADS = "6"
  
-Also, make can be passed flags so it run parallel threads e.g.
- 
+Also, make can be passed flags so it run parallel threads e.g.:
+
  PARALLEL_MAKE = "-j 6"
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 
 
